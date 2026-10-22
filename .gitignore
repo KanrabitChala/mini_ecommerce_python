@@ -1,0 +1,40 @@
+# Environment variables and secrets
+.env
+.env.*
+
+steps
+# Allow example environment file
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Testing files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Log files
+*.log
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+#==========================================
+#===========OR===========
+#==========================================
+
+# or simply ignore the following files only for this project ".env and venv folder"
+
+# .env
+# venv/
+# __pycache__/

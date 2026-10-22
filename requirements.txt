@@ -1,0 +1,9 @@
+
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pwdlib[argon2]
+itsdangerous
+email-validator
+python-dotenv
