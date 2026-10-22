@@ -2,7 +2,7 @@
 .env
 .env.*
 
-steps
+steps.md
 # Allow example environment file
 !.env.example
 
